@@ -1,1 +1,2 @@
-﻿Line 1: Initial content for Git assignment.
+Line 1: Initial content for Git assignment.
+Line 2: Edited directly via GitHub web interface.
